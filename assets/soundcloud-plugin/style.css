@@ -4,7 +4,7 @@
   margin-right: auto;
   padding-right: 15px;
   padding-left: 15px; }
-  @media (min-width: 576px) {
+  @media (min-width: 600px) {
     .addons-container {
       padding-right: 15px;
       padding-left: 15px; } }
@@ -44,7 +44,7 @@
     padding-right: 15px;
     padding-left: 15px;
 }
-@media (min-width: 567px) {
+@media (min-width: 600px) {
     .addons-container-inner{
         -ms-flex: 0 0 66.666667%;
         flex: 0 0 66.666667%;
